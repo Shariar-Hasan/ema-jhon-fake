@@ -1,0 +1,21 @@
+.header-area{
+    text-align: center;
+}
+.header-area img{
+    height: 80px;
+}
+nav{
+    background-color: black;
+    padding: 5px;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    margin: 0 10px;
+    padding: 5px 10px;
+    transition: .25s;
+}
+nav a:hover{
+    background-color: rgba(211, 211, 211, 0.603);
+    color: black;
+}
